@@ -1,0 +1,14 @@
+- layout: left
+  name: UFR ST
+  dates: 2015 - 2016
+  qualification: Licence Professionnelle Conception Orientée Objet d'Application Multi-Tiers (CDOOAM).
+  quote: >
+    Université de Franche Comté, Science et Technique, Département d'Informatique.   
+  description: | # this will include new lines to allow paragraphs
+    Formation polyvalente théorique et pratique avec des cours en java de développement client-serveur multi-thread, 
+    d'application Web en Java EE, UML et fondamentaux de l'orienté Objet, SQL et BDD sur base Oracle et Web Design en php et javascript. 
+    L'étudiant sort de cette licence pro avec de solides bases de programmation, de conception et même des notions de programmation concurrente sur client-serveur.
+ 
+    Durant ma formation j'ai acquis un enseignement théorique de qualité sur le developpement applicatif en Java EE n-Tier, la programmation concurrente (multi-threading), le developpement web, l'Orienté Objet, les bases de données Oracles, l'adminstration des serveurs Unix et Windows et la conception et modélisation en UML des logiciels et leur bases de données associées. 
+
+    Mon stage de fin d'étude dans une startup utilisant des technologies récentes en matière de base de données, notamment, ainsi que des projets d'études mixtes universitaires / professionnels, à cadences régulières, m'ont conférés dès l'issue de la formation un socle de connaissance et une dextérité dans ma pratique quotidienne.

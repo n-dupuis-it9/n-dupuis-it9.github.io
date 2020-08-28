@@ -1,0 +1,128 @@
+# Site
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+favicon: images/favicon.ico
+
+# Personal info
+name: Nicolas Dupuis
+title: Concepteur Developpeur Java EE / DevOps
+email: ndps.it9@gmail.com
+# phone: Your phone number (optional)
+website: https://ndupuis-cvblog.netlify.com
+
+
+darkmode: false
+
+
+# Social links
+# twitter_username: facespics
+github_username:  ndps-devops
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: nicolasdupuisitworks
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+
+# Additional icon links
+additional_links:
+- title: Docker Hub
+  icon: fa-docker
+  url: https://hub.docker.com/u/ndps
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_title: A mon sujet
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Bonjour, 
+  
+  Je m'appelle Nicolas Dupuis, je suis Concepteur Developpeur avec un parcours et une expérience de vie professionnelle atypique.
+  J'adhère au concept d' Artisanat du Code (Crafmanship Software) ainsi qu'à la philosophie <mark>DevOps</mark>.
+  
+  J'apprécie particulièrement Docker, Gitlab CI-CD, Jenkins, et j'utilise quotidiennement Maven et Git dans le cadre des développements en <mark>Java et Java EE</mark> qui me sont confiés. 
+  
+  Les systèmes d'exploitation Unix et Linux sont mes environnements d'efficience. Je pratique le <mark>scripting Bash et Python</mark> dans ce contexte.
+
+  Egalement, des notions solides de <mark>C et C++</mark>, sans toutefois pratiquer régulièrement. 
+
+  J'ai des affinités également avec le langage C# ainsi que le vaste framework ASP .Net en environnement Windows Servers et plus récemments dans le cadre de veille technologique : la technologie <mark>C# ASP .Net Core</mark>, en environnement Unix.
+
+# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images
+
+# Projects Section
+projects_title: Compétences IT #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+# more_content: | # this will include new lines to allow paragraphs
+#   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+#   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# More Section
+more_title: Et aussi... 
+more_content: | # this will include new lines to allow paragraphs
+  Je m'interesse particulièrement au moding du Jeu Minecraft en Java via une forge (API):
+   - [SDK Minecraft Forge](https://files.minecraftforge.net/) 
+
+  Je fréquente parfois les sites de challenges de code tel que : 
+   - [CodeWars](https://www.codewars.com/) : ![Codewars](https://www.codewars.com/users/AlphaScript/badges/micro)
+   - [Codingame](https://www.codingame.com/profile/c45452cc8f4654ad03a562f65833071f6325681/achievements)
+   - [Leek Wars](https://leekwars.com/)
+  
+  Egalement les cours online de qualité :
+    - [Coursera POO Java](https://fr.coursera.org/learn/programmation-orientee-objet-java)
+    - [Coursera POO C++](https://fr.coursera.org/learn/programmation-orientee-objet-cpp)
+
+  Enfin, les sports de glisses ou  d'équilibre tel que le ski et le roller.
+
+# Footer
+footer_show_references: true
+
+# Build settings
+theme: modern-resume-theme 
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

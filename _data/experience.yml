@@ -1,0 +1,26 @@
+- layout: left
+  company: Alteca
+  link: www.alteca.fr
+  job_title: Ingénieur de Développement en SSII.
+  dates: Septembre 2016 - actuellement
+  quote: >
+    La diversité des missions, l'adaptation, le pragmatisme et l'anticipation sont les composantes quotidienne de l'activité de conception et developpement informatique en Entreprises de Services du Numérique.
+  description: | # this will include new lines to allow paragraphs
+    - Conception et dévelopment de projet from scratch en Java Spring Boot - Spring Batch.
+    - Référent technique des stagiaires, mise en place environnements DevOps pédagogiques Gitlab CI-CD, Docker.
+    - Developpement et optimisation de framework Java en étude architecture, script bash et Oracle PL/Sql.
+    - Analyse et développements en Java 8, Java EE 7, C# Asp .Net, 
+    - Ecriture de scripts Sql transactionnels en Transact SQL pour des fusions d'établissements bancaires. 
+    
+
+- layout: left
+  company: Webdrone
+  link: www.webdrone.fr
+  job_title: Analyste Programmeur
+  dates: Juin 2016 à Septembre 2016
+  quote: >
+    Startup spécialisée en intelligence économique, Ingénierie et cybercriminalité et ou le terme <b>DevOps</b> prend tout son sens.
+  description: 
+    Analyse et développements en Java 8 et Java EE pour le back-office, également en Php, Symfony 2, et Javascript JQuery pour le Front-End.
+    Utilisation quotidienne de bases de données MongoDb et requêtes en NoSql.
+

@@ -1,0 +1,18 @@
+- layout: top-middle
+  # name: 
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    Tout le succès d’une opération réside dans sa préparation. [Sun Tzu, l'Art de la Guerre]
+  description: | # this will include new lines to allow paragraphs
+    J'entretien régulièrement mes compétences dans les domaines les plus divers, ci dessous une rapide synthèse non exhaustive :
+
+    | Domaine | Technos |
+    |-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+    | Java & Java EE | Java 8, EJBs 2 & 3, CDI, API Rest (JAX-Rs,Spring Rest API, Swagger), Spring & Spring-Boot, Spring-Batch, Mockito, JPA & Hibernate |
+    | Windows & .Net | C# ASP .Net & ASP .Net Core |
+    | DevOps | Maven, Git,  GitLab CI-CD, Docker, Jenkins, Nexus, Artifactory |
+    | Conception Logicielle | UML, Design Patterns, Test Driving Developpement. |
+    | Base de Données & SQL | MS SQL Server & MS Transact SQL,  Oracle & PL/SQL, MongoDb & NoSql Orienté Document, PostgreSql & PL/pgSQL |
+    | Scripting | Bash, Python |
+    | Serveurs Unix / Linux | Debian, Ubuntu, Kali, Free BSD |
